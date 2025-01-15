@@ -30,7 +30,7 @@ body {
 
 /* Moved the button class to the top of confirm class */
 
-/* Added the child class */.text .child {
+/* Added the child class to the formal child class */.text .child {
   color: rgb(0, 0, 0);
   font-weight: 800;
   font-size: 14px;
